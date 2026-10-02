@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-c314319474.gmehdbg.cn/sitemap.xml
